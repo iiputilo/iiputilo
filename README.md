@@ -22,15 +22,9 @@
 - LLM/RAG: RAG basics, LLM moderation flows, simple policy/heuristic filters
 - Quality: unit testing, code review, experiment tracking/reporting
 
-<details>
-<summary>Selected projects (short)</summary>
+## Selected projects
 
 - 🚦 Driver fatigue / workplace safety detection: dataset + augmentation, YOLO training, evaluation, write-up.
 - 🛡️ Secure GenAI agent: microservices + RAG, heuristic + LLM moderation, Docker + cloud deployment, cross pentest.
 - 🐙 xkcd search platform: Go microservices, `gRPC`/`REST`, orchestrator, DB service, Telegram bot, tests + GitLab reviews.
 
-</details>
-
-## Contact
-- 📫 Email: `iiputilo@gmail.com`
-- 🔗 Telegram: `@iiputilo`
