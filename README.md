@@ -8,11 +8,11 @@
 ---
 
 ## About me
-- 🧠 Build and train computer vision models (YOLO-style detection), run experiments, compare approaches, and report results.
-- 🖼️ Handle CV/ML data pipelines: collection/labeling, augmentation, preprocessing (resizing/normalization), PCA-based compression, channel operations.
-- 🧩 Design microservice backends: Go services with `gRPC`/`REST`, orchestration, DB-facing services, and Telegram-bot integration.
-- 🐳 Ship reproducible setups: Dockerized services, basic cloud deployment (Yandex Cloud / APIs).
-- 🧪 Work with production practices: unit tests, GitLab code review, and a security mindset for LLM/RAG pipelines (moderation + heuristic guards)
+- 🧠 Build and train computer vision models (YOLO-style detection), run experiments, compare approaches, and report results
+- 🖼️ Handle CV/ML data pipelines: collection/labeling, augmentation, preprocessing (resizing/normalization), PCA-based compression, channel operations
+- 🧩 Design microservice backends: Go services with `gRPC`/`REST`, orchestration, DB-facing services, and Telegram-bot integration
+- 🐳 Ship reproducible setups: Dockerized services, basic cloud deployment
+- 🧪 Work with production practices: unit tests, GitLab code review, and a security mindset for LLM/RAG pipelines
 
 ## Skills & Tech
 - Languages: `Python`, `Go`, `C++`
